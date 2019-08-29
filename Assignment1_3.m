@@ -39,7 +39,7 @@ J1(i,j) = evaluatecostfunction(X,y,[0 w1(i) w2(j)],lambda);
 end
 end
 %Plotting weights vs cost function
-figure; plot3(W(:,2),W(:,1),J,'color','r') %Batch gradient descent – Cost vs w1 and w2
+figure; plot3(W(:,2),W(:,1),J,'color','r') %Batch gradient descent â€“ Cost vs w1 and w2
 figure; contour(w2,w1,J1); hold on; plot(W(:,2),W(:,1),'color','r') %Contour plot
 clear i j
 %Function to evaluate cost function for ridge regression
