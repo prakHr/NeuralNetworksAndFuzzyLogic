@@ -70,36 +70,4 @@ This was challenging since it was my first time using matlab,and doing data anal
 ---
 
 ### Matlab_Functions
-* xlsread 
-* ones
-* size
-* mean 
-* std
-* randperm
-* length
-* plot
-* xlabel,ylabel
-* clear
-* plot3
-* contour
-* scatter
-* sqrt
-* sum 
-* find
-* display
-* confusionmat
-* trace
-* min
-* cvpartition
-* norm
-* kmeans
-* max
-* trainAutoencoder
-* encode
-* stack
-* train
-* stackednet
-* pinv
-* tanh
-* randn
-* normpdf
+* xlsread, ones, size, mean, std, randperm, length, plot, xlabel, ylabel, clear, plot3, contour, scatter, sqrt, sum, find, display, confusionmat, trace, min, cvpartition, norm, kmeans, max, trainAutoencoder, encode, stack, train, stackednet, pinv, tanh, randn, normpdf
